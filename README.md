@@ -1,11 +1,12 @@
 ### Simple Testing Tutorial For Django
+This repository has examples of django testing in Jupyter Notebook (`.ipynb`) format. You'll find:
 
-### Test URL Used
-- Check if the links work and go to the right places.
+##### Test URL Used
+- Check if the links work correctly.
 
-### Test Model Content
-- Check if the data is correct and looks right.
+##### Test Model Content
+- Checks if the data on the models is correct.
 
-### Test Template Used
-- Check if the templates show the right content.
+##### Test Template Used
+- Checks if the correct templates were used.
 
